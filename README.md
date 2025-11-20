@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Priyanshu Choudhary
 
-<!--
-**Priyanshu1229/Priyanshu1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Fresher **Data Analyst & WordPress Developer** with hands-on experience in **Excel dashboards, Power BI, and WordPress websites**.  
+💻 Currently building **interactive dashboards and functional websites** to solve real-world problems.  
+🎯 Passionate about turning data into **actionable insights**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills
+- **Data Analytics:** Excel, PivotTables, Power Query, Power BI, Data Visualization  
+- **CMS:** WordPress, Elementor  
+- **Front-End (basic):** HTML, CSS, JavaScript  
+- **Tools:** GitHub, VS Code, Figma (basic)
+
+---
+
+## 🔹 Projects
+- **Blinkit Analysis (Excel)** — [Repo Link](https://github.com/Priyanshu1229/Blinkit-Excel-Project)  
+- **Credit Card Financial Dashboard (Power BI)** — [Repo Link](#)  
+- **Weather Data Dashboard (Excel/Power BI)** — [Repo Link](#)  
+  
+
+
+---
+
+## 🔹 Connect with me
+- LinkedIn: [Priyanshu Choudhary](https://www.linkedin.com/in/priyanshu-choudhary/)  
+- Email: priyanshuchoudhary@gmail.com  
+
