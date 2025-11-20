@@ -15,7 +15,7 @@
 ---
 
 ## 🔹 Projects
-- **Blinkit Analysis (Excel)** — [Repo Link](https://github.com/Priyanshu1229/Blinkit-Excel-Project)  
+- **Blinkit Analysis (Excel)** — (https://github.com/Priyanshu1229/Blinkit-Analysis-Excel-Project-)
 - **Credit Card Financial Dashboard (Power BI)** — [Repo Link](#)  
 - **Weather Data Dashboard (Excel/Power BI)** — [Repo Link](#)  
   
